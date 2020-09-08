@@ -39,6 +39,7 @@
     "smooth-scroll": "^16.0.3"
   },
   "devDependencies": {
+    "@babel/preset-react": "^7.10.4",
     "gatsby-plugin-remove-trailing-slashes": "^2.0.11",
     "prettier": "^1.18.2"
   },
