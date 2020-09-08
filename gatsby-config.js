@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `Ibrahim T. Miraj`,
-        description: `Ibrahim T. Miraj's personal website and & online`,
-    author: `Ibrahim Miraj`,
+        description: `Ibrahim's personal website & portfolio`,
+    author: `Ibrahim T. Miraj | Marguerite Roth | marguerite.io`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
